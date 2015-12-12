@@ -1,4 +1,4 @@
-Warm up !
+## Warm up !
 
 String substitution
 Sum a list
@@ -8,23 +8,21 @@ Max/Min of a LIst
 Maps + Sets
 
 
-
-
-Financial Formulae
+## Financial Formulae
 
 [http://www.financeformulas.net](http://www.financeformulas.net)
 
-Simple Interest
-Compound Interest
-Annuity
-Loan repayment for mortgage over the entire duration
+* Simple Interest
+* Compound Interest
+* Annuity
+* Loan repayment for mortgage over the entire duration
 
-Bank transation balance
+## Bank transation balance
 
 In : A List of transactions with date , amount, type.
 Out : Balance per month = month, ending balance
 
-Theme Park Ticket Price Calculator:
+## Theme Park Ticket Price Calculator:
 
 Take in a list of ages . Return total Theme park ticket Prices
 
@@ -34,4 +32,7 @@ Summer Premium = 10%
 Spring and Fall = 0%
 More than 5 tickets get 5% discount
 
-Hotel Rate Calculator
+## Hotel Rate Calculator
+[https://github.com/archkum/learningjava/tree/master/src/main/java/com/bitbucket/learningjava/hotelratecalculator]
+
+## Scala tests for Java Code
