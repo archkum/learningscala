@@ -5,7 +5,12 @@ package com.github.learningscala;
  */
 public class FizzBuzz {
     public String getFizzBuzz(int i){
-        if ((i%3) == 0 && (i%5 == 0)){
+
+        if (i == 0) {
+            return "0";
+        }
+
+        else if ((i%3) == 0 && (i%5 == 0)){
             return "fizz buzz";
         }
         else if ((i%3) == 0){
